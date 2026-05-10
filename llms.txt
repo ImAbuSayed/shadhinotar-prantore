@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shadhinotar-prantore/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Shadhinotar Prantore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadhinotar-prantore/) |
+| **Get License** | [Get License For Shadhinotar Prantore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shadhinotar-prantore/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই রাতের বুকে প্রেমের প্রদীপ জ্বালো
+> তোমার ছোঁয়ায় আঁধার কেটে আসছে নতুন আলো
+> হারিয়ে যাওয়ার ভয় নেই আজ তুমি তো আছো পাশে
+> আমার যত রঙিন স্বপন তোমার মাঝেই হাসে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4dd0531d84d33dbdbecb713c7ce29d0df70ce4560a676f8b789d4bbe8ad7b985` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

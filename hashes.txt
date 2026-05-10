@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shadhinotar Prantore
+
+This log tracks the cryptographic history and versioning for the song **Shadhinotar Prantore** (shadhinotar-prantore).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T10:26:03.365371 | `v1` | `4dd0531d84d33dbdbecb713c7ce29d0df70ce4560a676f8b789d4bbe8ad7b985` | `8937499b78992896e876ce6fc523e022680dc9206bbce39550282db1e127fdba` | `2026-05-10_shadhinotar-prantore-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
